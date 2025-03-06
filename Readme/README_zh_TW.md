@@ -5,9 +5,9 @@
 
 ---
 ## 系統流程總覽
-### Part 1
+### Part 1 : 職缺數據擷取與前處理
 ![image](/image/AI_Agent_Part1.jpg)
-### Part 2
+### Part 2 : AI 職缺分析與整合
 ![image](/image/AI_Agent_Part2.jpg)
 
 ---
