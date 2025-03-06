@@ -1,6 +1,6 @@
 # AI-Agent Job Search Assistant
 
-![image](/image/AI_Agent.jpg)
+![image](/image/AI_Agent.png)
 
 - en [English](Readme/README_EN.md)
 - zh_TW [繁体中文](Readme/README_zh_TW.md)
