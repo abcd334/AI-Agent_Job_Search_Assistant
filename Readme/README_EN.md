@@ -5,6 +5,14 @@ The system can **automatically search for job listings, analyze and compare job 
 
 ---
 
+## System Workflow Overview
+### Part 1
+![image](/image/AI_Agent_Part1.jpg)
+### Part 2
+![image](/image/AI_Agent_Part2.jpg)
+
+---
+
 ## Key Features
 
 - **📌 Automated Job Search**: Retrieves the latest job listings from multiple sources via **HTTP Requests**.  
