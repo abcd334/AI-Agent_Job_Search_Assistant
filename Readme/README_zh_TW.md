@@ -4,6 +4,9 @@
 系統可 **自動搜尋職缺、分析與比對條件、處理數據，並將結果更新至 Google Cloud**，大幅提升求職效率，減少人工搜尋與篩選的時間成本。
 
 ---
+![image](/image/AI_Agent_Part1.jpg)
+
+![image](/image/AI_Agent_Part2.jpg)
 
 ## 主要功能
 
