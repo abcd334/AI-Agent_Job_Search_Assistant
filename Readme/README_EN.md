@@ -6,9 +6,9 @@ The system can **automatically search for job listings, analyze and compare job 
 ---
 
 ## System Workflow Overview
-### Part 1
+### Part 1 : Job Data Extraction & Preprocessing
 ![image](/image/AI_Agent_Part1.jpg)
-### Part 2
+### Part 2 : AI-Powered Job Analysis & Matching
 ![image](/image/AI_Agent_Part2.jpg)
 
 ---
